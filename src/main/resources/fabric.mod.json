@@ -2,14 +2,14 @@
 	"schemaVersion": 1,
 	"id": "masuki",
 	"version": "${version}",
-	"name": "masuki",
+	"name": "Masuki",
 	"description": "This mod adds the famous Masuki from Binondo in Minecraft! Now you can enjoy peak in the virtual world!",
 	"authors": [
 		"Scyvo, the Masuki Lover!!!"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Scyvo28/Fabric-Masuki-26.X",
+		"sources": "https://github.com/Scyvo28/Fabric-Masuki-26.X"
 	},
 	"license": "MIT-license",
 	"icon": "assets/masuki/icon.png",
